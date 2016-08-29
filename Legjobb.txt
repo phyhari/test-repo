@@ -1,1 +1,2 @@
-Az igazsäg 42
+42
+Felhoben modositva
